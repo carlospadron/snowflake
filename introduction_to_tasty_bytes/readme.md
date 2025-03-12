@@ -1,0 +1,1 @@
+https://quickstarts.snowflake.com/guide/tasty_bytes_introduction/index.html?index=..%2F..index#3
